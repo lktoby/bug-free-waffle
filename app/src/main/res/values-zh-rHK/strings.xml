@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart行程助手</string>
+    <string name="searchbarhint">搜尋地方</string>
+    <string name="location_1">迪士尼樂園</string>
+    <string name="des_1">走進童話故事般的夢幻國度，探索7大主題園區，展開一段奇妙、驚險刺激的冒險旅程，和你最愛的迪士尼朋友見面！</string>
+    <string name="location_2">青馬大橋</string>
+    <string name="des_2">青馬大橋是全球最長的行車及鐵路雙用吊橋，曾獲美國建築界權威人士及編輯選為「20世界十大建築」。</string>
+    <string name="location_3">荔枝窩</string>
+    <string name="des_3">荔枝窩的自然步道連貫荔枝窩海岸、荔枝窩村及風水林，沿途你會看到充滿生機的紅樹林、已有300年歷史的客家村「荔枝窩村」、古老的銀葉樹林，以及有約100種植物的百年風水林。</string>
+    <string name="location_4">清水灣郊野公園</string>
+    <string name="des_4">"清水灣郊野公園其中一個特別之處，是園內有不少歷史名勝 ，如佛堂門天后古廟 、青銅時代的石刻等。而有興趣吃海鮮的遊客 ，更可前往現時仍以捕魚為業的布袋澳村，品嘗新鮮海產 。 "</string>
+    <string name="location_5">文武廟</string>
+    <string name="des_5">文武廟是香港殖民地時期，其中一座最早興建的中式廟宇，安靜的位置上環鬧市裏頭，與車水馬龍的商業區，形成强烈的對比。廟内輕煙裊裊，四處吊著長燃不熄的大型塔香，代表善信祈求健康和快樂等的祝願。</string>
+    <string name="location_6">諾亞方舟</string>
+    <string name="des_6">全球唯一根據遠古所載，一比一的比例大小建做的香港諾亞方舟，位處馬灣島海灣，擁覽遼闊海景，與青馬大橋相互輝映。</string>
+    <string name="location_7">龍鼓灘</string>
+    <string name="des_7">"龍鼓灘，原名花香爐，位於香港新界屯門的西面，區內有不少特殊建築，其中香港兩家大型發電廠便位於此，附近亦有不少燒烤場設施。一說龍鼓灘亦是南宋名將文天祥筆下《過零丁洋》中「皇恐灘」之地。 "</string>
+    <string name="location_8">流浮山</string>
+    <string name="des_8">流浮山以其出產的海鮮聞名，尤其是蠔。因為該處位於后海灣畔，臨近珠江口，有淡水流入，所以適合養蠔。</string>
+    <string name="location_9">九龍城寨公園</string>
+    <string name="des_9">九龍寨城公園的原址是九龍寨城，是香港近代歷史其中一個最重要的遺蹟。遊覽其中，除了可以好好欣賞美景，還能緬懷上世紀的老香港風貌。</string>
+    <string name="location_10">衛奕信徑第三段</string>
+    <string name="des_10">行山中途可以飽覽將軍澳，九龍東部，港島東部及小部分更遠的西貢景色。</string>
+    <string name="location_11">深水埗天后廟</string>
+    <string name="des_11">深水埗昔日為漁舟聚集之地，漁民認為藉神力可保風調雨順，因而信奉天后，並於光緒二十七年(一九零一年)集資建此天后廟。當時的天后廟面海，風水極佳，惟因社區發展關係，該廟現已被四面林立的大廈包圍。</string>
+    <string name="location_12">黃大仙廟</string>
+    <string name="des_12">黃大仙祠是香港最著名的廟宇之一，崇奉儒、釋、道三教。據說黃大仙「有求必應」，簽文靈驗，常年吸引無數善信到來膜拜求簽，香火鼎盛。每年的農曆年大年初一，有不少善信爭相到來搶頭香，成為香港賀歲習俗之一。</string>
+    <string name="location_13">九龍公園</string>
+    <string name="des_13">在車水馬龍的彌敦道旁邊的九龍公園，原本是個軍營，於1970年重建成為公園。公園內有多個不同風格的花園，如建有石景瀑布的中國花園、植滿玫瑰的瑰麗花園、玩味十足的迷宮花園、置滿雕塑的雕塑園，還有飼養了約18個品種200多隻雀鳥的鳥湖。</string>
+    <string name="location_14">香港大會堂</string>
+    <string name="des_14">香港大會堂是香港第一個多元化文娛表演場地，見證著香港藝術文化的發展，目前很多藝術文化盛事都在這裡進行。</string>
+    <string name="location_15">午炮</string>
+    <string name="des_15">如果您在中午經過銅鑼灣告士打道的海邊，小心別被炮聲嚇倒喔！每日正午12:00，這裡都會鳴放午炮一響。這項歷史悠久的傳統，起源已因年代久遠而無從稽考。</string>
+    <string name="location_16">海洋公園</string>
+    <string name="des_16">位於香港島南面的香港海洋公園，於1977年開幕，是一個世界級的海洋動物主題樂園，集娛樂、教育及保育於一體。</string>
+    <string name="location_17">姻緣石</string>
+    <string name="des_17">據說「姻緣石」是一塊能使人「求配偶得配偶；求子嗣得子嗣」的神奇石岩。它的形態像一枝石筆斜插在石座上。據說它成功為眾多情侶締結美滿良緣，非常靈驗。</string>
+    <string name="region_1">大嶼山, 離島</string>
+    <string name="region_2">葵青, 新界</string>
+    <string name="region_3">北區, 新界</string>
+    <string name="region_4">西貢, 新界</string>
+    <string name="region_5">大埔, 新界</string>
+    <string name="region_6">馬灣, 新界</string>
+    <string name="region_7">屯門, 新界</string>
+    <string name="region_8">元朗, 新界</string>
+    <string name="region_9">九龍城, 九龍</string>
+    <string name="region_10">觀塘, 九龍</string>
+    <string name="region_11">深水埗, 九龍</string>
+    <string name="region_12">黃大仙, 九龍</string>
+    <string name="region_13">尖沙咀, 九龍</string>
+    <string name="region_14">中環, 香港島</string>
+    <string name="region_15">淺水灣, 香港島</string>
+    <string name="region_16">南區, 香港島</string>
+    <string name="region_17">灣仔, 香港島</string>
+
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".LanguageSelectActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="150dp"
+        android:text="@string/languageselect"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/languageselect_chi"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"/>
+
+    <Button
+        android:id="@+id/languageoption_eng"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:scaleX="2"
+        android:scaleY="2"
+        android:text="@string/languageoption_eng"
+        android:onClick="selection"
+        android:textSize="17sp"/>
+
+    <Button
+        android:id="@+id/languageoption_chi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:scaleX="2"
+        android:scaleY="2"
+        android:text="@string/languageoption_chi"
+        android:onClick="selection"
+        android:textSize="17sp"/>
+</LinearLayout>

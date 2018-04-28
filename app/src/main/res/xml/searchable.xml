@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/app_name"
+    android:hint="@string/searchbarhint"
+    android:searchSuggestIntentAction="android.intent.action.VIEW"
+    android:searchSuggestIntentData="content://com.example.user.smart_travel_planner.SuggestionsProvider/Resources"
+    android:searchSuggestAuthority="com.example.user.smart_travel_planner.SuggestionsProvider"
+    android:searchSuggestSelection=" ?"
+    android:searchSuggestThreshold="1"
+
+    android:includeInGlobalSearch="true">
+
+</searchable>

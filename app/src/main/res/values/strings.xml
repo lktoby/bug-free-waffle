@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Smart Travel Planner</string>
+    <string name="languageselect" translatable="false">Please select your language</string>
+    <string name="languageselect_chi" translatable="false">請選擇語言</string>
+    <string name="languageoption_eng" translatable="false">English</string>
+    <string name="languageoption_chi" translatable="false">中文</string>
+    <string name="searchbarhint">Search places...</string>
+
+    <string name="location_1">Disneyland</string>
+    <string name="region_1">Lantau Island, New Territories</string>
+    <string name="des_1">Enter a magical kingdom inspired by fairy-tale dreams and explore 7 lands—Adventureland, Grizzly Gulch, Mystic Point, Toy Story Land, Fantasyland, Tomorrowland and Main Street.</string>
+
+    <string name="location_2">Tsing Ma Bridge</string>
+    <string name="region_2">Kwai Tsing, New Territories</string>
+    <string name="des_2">Massively imposing by day and a twinkling span of lights by night, the Tsing Ma Bridge is an engineering marvel that links Lantau Island to the rest of Hong Kong.</string>
+
+    <string name="location_3">Lai Chi Wo</string>
+    <string name="region_3">North, New Territories</string>
+    <string name="des_3">The village features a God of War temple and a mangrove habitat with ancient vegetation, including huge interlocking-branch trees, hollow trees and \‘five-finger\’ camphor trees.</string>
+
+    <string name="location_4">Clear Water Bay Country Park</string>
+    <string name="region_4">Sai Kung, New Territories</string>
+    <string name="des_4">Historic sites are major attractions of Clearwater Bay Country Park. Examples are the Tin Hau Temple in Fat Tong Mun and the Bronze Age rock carving. Seafood lovers should not miss Po Toi O, a traditional fishing hamlet where villagers still pursue the old seafaring trade, and where you can sample fresh catches of the sea.</string>
+
+    <string name="location_5">Man Mo Temple</string>
+    <string name="region_5">Tai Po, New Territories</string>
+    <string name="des_5">The Man Mo Temple is a picturesque tribute to the God of Literature (Man) and the God of War (Mo), both of whom were worshipped by ambitious students looking to succeed in the civil examinations of Imperial China. These involved rigorous systems aimed at finding the best administrative officials for the state.</string>
+
+    <string name="location_6">Noah\'s Ark</string>
+    <string name="region_6">Ma Wan, New Territories</string>
+    <string name="des_6">It really is like gazing upon the ark itself, which is why the world\'s only full-size replica of Noah\'s Ark is popular with both international and local visitors. Located on Ma Wan island, the distinctive ark on the waterfront overlooks the Rambler Channel and Tsing Ma Bridge.</string>
+
+    <string name="location_7">Lung Kwu Tan</string>
+    <string name="region_7">Tuen Mun, New Territories</string>
+    <string name="des_7">Lung Kwu Tan is an area located in the western part of the Tuen Mun District in Hong Kong. Two large power plants are located here, and there are many barbecue facilities nearby.</string>
+
+    <string name="location_8">Lau Fau Shan</string>
+    <string name="region_8">Yuen Long, New Territories</string>
+    <string name="des_8">Lau Fau Shan is traditionally famous for fresh oysters. About 100 tons were harvested every year, some for consumption in Hong Kong restaurants and some for export to neighboring countries. </string>
+
+    <string name="location_9">The Kowloon Walled City Park</string>
+    <string name="region_9">Kowloon City, Kowloon</string>
+    <string name="des_9">Kowloon Walled City Park sits on the very site of the former Kowloon Walled City, remembered today as a haven of crime and debauchery. </string>
+
+    <string name="location_10">The Wilson Trail Stage 3</string>
+    <string name="region_10">Kwun Tong, Kowloon</string>
+    <string name="des_10">You can enjoy the views of Tseung Kwan O, East Kowloon and Hong Kong Island, and even Sai Kung while you are having your hiking journey here.</string>
+
+    <string name="location_11">Tin Hau Temple</string>
+    <string name="region_11">Sham Shui Po, Kowloon</string>
+    <string name="des_11">Sham Shui Po was formerly a bay where many fishing junks berthed. The fishing folks looked to the supernatural power to keep them safe on the sea and built this temple in honor of Tin Hau, the Goddess of the Sea in 1901. The temple originally faced the seashore and had good Fung Shui. Nowadays, it is tucked in the midst of high-rise buildings.</string>
+
+    <string name="location_12">Wong Tai Sin Temple</string>
+    <string name="region_12">Wong Tai Sin, Kowloon</string>
+    <string name="des_12">The Sik Sik Yuen Wong Tai Sin Temple’s claim to ‘make every wish come true upon request’ might have something to do with its popularity. Home to three religions (Taoism, Buddhism and Confucianism), its natural setting and beautifully ornamented buildings make it as much a scenic attraction as an important religious centre.</string>
+
+    <string name="location_13">Kowloon Park</string>
+    <string name="region_13">Tsim Sha Tsui, Kowloon</string>
+    <string name="des_13">After the hectic surrounds of Tsim Sha Tsui, the tranquility of Kowloon Park washes over you like a mountain spring. But this peaceful place was actually once an army fortress that was handed over by the military for public use in 1970.</string>
+
+    <string name="location_14">City Hall</string>
+    <string name="region_14">Central, Hong Kong Island</string>
+    <string name="des_14">Hong Kong City Hall, Hong Kong’s first purpose-built cultural complex, opened in 1962 and has served as a prime performance venue for a variety of cultural and arts activities. Its facilities include the Concert Hall, the Theatre and the Exhibition Hall and the city’s first public library. </string>
+
+    <string name="location_15">Noonday Gun</string>
+    <string name="region_15">Causeway Bay, Hong Kong Island</string>
+    <string name="des_15">Owned by multinational company Jardine Matheson, the Noon Day Gun, made famous in the Noel Coward song Mad Dogs and Englishmen, is fired off by a Jardine employee at noon every day.</string>
+
+    <string name="location_16">Ocean Park</string>
+    <string name="region_16">Southern, Hong Kong Island</string>
+    <string name="des_16">Opened in 1977, Ocean Park Hong Kong is a marine-life theme park featuring animals, thrill rides and shows. It is located on the southern side of Hong Kong Island, with an area of more than 915,000 square metres. The two major attractions areas, the Waterfront and the Summit, are connected by the Cable Car and Ocean Express funicular train.</string>
+
+    <string name="location_17">Lover\'s Rock</string>
+    <string name="region_17">Wan Chai, Hong Kong Island</string>
+    <string name="des_17">It is said that "Lover\'s Rock" is a magical rock that can make people\'s love wishes come true. Its shape is like a stone pen obliquely inserted in the stone seat. It is said that it has successfully concluded a happy marriage for many couples.</string>
+
+    <string name="plan_label">Your plan</string>
+</resources>
